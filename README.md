@@ -2,4 +2,4 @@
 Welcome to my project.
 
 # About me
-I'm Cynthia
+I'm Cynthia, Hi
