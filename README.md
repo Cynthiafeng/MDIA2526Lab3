@@ -1,1 +1,5 @@
-# MDIA2526Lab3
+# Project A
+wWelcome to my project.
+
+# About me
+I'm Cynthia
