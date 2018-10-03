@@ -1,5 +1,5 @@
 # Project A
-wWelcome to my project.
+Welcome to my project.
 
 # About me
 I'm Cynthia
